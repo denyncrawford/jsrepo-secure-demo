@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"signature": "gWocVM0JsmPmQ0JD1uvGNBNP/9dwD5wPrfOCLj3m2hmPWGtKTQ/mlRQ79+RdOF9OwkA1+WHmK+hitA4g6Im/K0dWpUrOPy9vJIVB+GKyBio5aZCAfm4QskY7EUOMdHGTGFKT0Vik2G/ODLvlJqGAlHUQRTFBFrNfDMVy1LiwUBSKPoCmiPGomGzJ1P1ZpGRrhyFX/GeKiyCyERlcz035xSjDZN0sBnLjy9wWejgwr2gPgqU6oqOS3kEE3u+7iIvyhMOwAMbk5w9tWHVwrFOyS7YeJY8+MbdVf2ciph2JUzqoqWaTgyw8MMOF1XDvrG403PSwlh5UD0Fnsyx3tX8j0qW54Z3pnJHO594M4fSoz37adeA2Kz4610YGBdvBsUNlQ8U2uMTG2V+D5w9HKyPOGay8IlTi1bq4s8C/awG1gpGhWrqp7QImz8r6ebdpiPjrMggH/YLwaXYUHrljwL1ruCju/NJrIJhvV57R4Al/rPFy4kTNAL7RmaC3LQ1lYCtIaea+47cC0LfiDSG8tZbt1ilPRt+/jRbmGpxi1ncUnz8GXHayYLPFhQ6J2Btd/SMtJcA9b/KVVRzvAjNaTQLDZ/0/M2v5nlZgq8KIsZ//gOnkaT/CVgo8YYEPtps89Lclad+2M5BDdydS5dY6JIwp21JvRdTngNXWuC+TUtVo3Nk=",
+		"isOrigin": true
+	},
+	"categories": [
+		{
+			"name": "utls",
+			"blocks": [
+				{
+					"name": "print",
+					"directory": "blocks/utls",
+					"category": "utls",
+					"tests": false,
+					"subdirectory": false,
+					"list": true,
+					"files": [
+						"print.ts"
+					],
+					"localDependencies": [],
+					"_imports_": {},
+					"dependencies": [],
+					"devDependencies": []
+				}
+			]
+		}
+	]
+}
